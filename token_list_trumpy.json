@@ -1,0 +1,13 @@
+{
+    "tokens": [
+      {
+        "chainId": 137,
+        "address": "0xce5dd7b4e350b54bd56779718d7fd976b968a6af",
+        "symbol": "TRUMPY",
+        "name": "TRUMPY",
+        "decimals": 8,
+        "logoURI": "https://trumpycoin.com/trumpy-200x200.png"
+      }
+    ]
+  }
+  
