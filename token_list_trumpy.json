@@ -1,13 +1,32 @@
 {
-    "tokens": [
-      {
-        "chainId": 137,
-        "address": "0xce5dd7b4e350b54bd56779718d7fd976b968a6af",
-        "symbol": "TRUMPY",
-        "name": "TRUMPY",
-        "decimals": 8,
-        "logoURI": "https://trumpycoin.com/trumpy-200x200.png"
+  "name": "Trumpy Token List",
+  "timestamp": "2024-12-25T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xce5dd7b4e350b54bd56779718d7fd976b968a6af",
+      "decimals": 8,
+      "name": "TRUMPY",
+      "symbol": "TRUMPY",
+      "logoURI": "https://trumpycoin.com/trumpy-200x200.png",
+      "tags": ["meme", "polygon"],
+      "extensions": {
+        "color": "#ff5733",
+        "is_fee_on_transfer": true
       }
-    ]
-  }
-  
+    }
+  ],
+  "keywords": ["meme", "cryptocurrency", "polygon"],
+  "tags": {
+    "meme": {
+      "name": "Meme Coin",
+      "description": "Tokens based on humor or community-driven projects"
+    }
+  },
+  "logoURI": "https://trumpycoin.com/logo.png"
+}
